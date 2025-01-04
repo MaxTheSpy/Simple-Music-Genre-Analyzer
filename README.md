@@ -6,12 +6,6 @@ Simply launch the application using python, enter your directory and click analy
 There are 2 display methods, Complex and Simple. Complex is the default and does not categorize tags together into parent genreas. Simple does. Here are some examples of the results
 
 Complex:
-Total Songs: 2182
-Songs in Multiple Categories: 1151
-* = Tags Are Categorized
---- Tagged Genres ---
-----------------------
---- Untagged Genres ---
 001. 006.27% - alternative metal (325 songs)
 002. 005.83% - pop (302 songs)
 003. 004.15% - dance pop (215 songs)
@@ -23,10 +17,6 @@ Songs in Multiple Categories: 1151
 009. 002.89% - pop rap (150 songs)
 
 Simple:
-Total Songs: 2182
-Songs in Multiple Categories: 1151
-* = Tags Are Categorized
---- Tagged Genres ---
 01. 026.24% - *Pop (1360 songs)
 02. 018.72% - *Classical (970 songs)
 03. 010.36% - *Rap & Hip-Hop (537 songs)
